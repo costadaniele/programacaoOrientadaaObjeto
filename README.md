@@ -59,6 +59,8 @@ da variável nesta condição.
 
 - salvar na pasta htdocs.
 
+---
+
 Referências:
 
 https://www.edivaldobrito.com.br/como-instalar-o-xampp-no-linux/
