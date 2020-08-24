@@ -19,7 +19,7 @@ https://apachefriends.org/pt_br/download.html
 
 - Tornar o arquivo executável
 
-`chmod +x xampp-intaller.run`
+`chmod +x xampp-installer.run`
 
 - Instalação do XAMPP
 
