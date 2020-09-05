@@ -41,6 +41,11 @@ https://apachefriends.org/pt_br/download.html
 
 ---
 
+- Erro no #XAMPP Apache Web Server
+
+`sudo apachectl stop`
+
+---
 
 ### Variáveis
 
@@ -55,6 +60,23 @@ variável. São utilizados dois
 sinais ($$) precedendo o nome
 da variável nesta condição.
 
+
+## Conteúdos abordados
+
+- Comandos de saída
+- Variáveis
+- Variáveis variantes
+- Manipulação de variáveis
+- Condicional if
+- Condicional while
+- Foreach (laço de repetição para arrays ou matrizes)
+- Uso de função
+- Função de variável de forma estática
+- Arrays (Manipulação, Multidimensional)
+- sort / count /
+
+---
+
 # Exercícios
 
 - salvar na pasta htdocs.
@@ -64,3 +86,5 @@ da variável nesta condição.
 Referências:
 
 https://www.edivaldobrito.com.br/como-instalar-o-xampp-no-linux/
+
+https://www.w3schools.com/php/func_array_count.asp

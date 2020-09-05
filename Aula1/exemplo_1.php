@@ -1,6 +1,5 @@
 <?php
 /*exercício-1*/
-echo'Olá mundo! ';
 echo"dia ".date('d/m/Y');
 print' Meu nome é Daniele';
 ?>
@@ -9,6 +8,7 @@ print' Meu nome é Daniele';
 
 <?php
 /*comandos de saída*/
+echo'Olá mundo! '; 
 $vetor=array('palavra');
 var_dump($vetor);
 ?>
@@ -29,7 +29,7 @@ echo"$nome, $sobrenome";
 
 <?php
 /*variáveis variantes*/
-$variavel="nome";
-$$variavel="Daniele";
-echo $nome;
+$variavel="dani";
+$$variavel="Olá";
+echo $dani;
 ?>
