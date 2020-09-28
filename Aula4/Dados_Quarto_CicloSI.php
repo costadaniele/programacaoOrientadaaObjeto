@@ -20,9 +20,4 @@ echo nl2br($SI->get_professor()."\n");
 echo nl2br($SI->get_Fatec()."\n");
 echo nl2br($SI->get_quantidade_alunos()."\n");
 echo nl2br($SI->get_período()."\n");
-
-
-
-
-
 ?>
